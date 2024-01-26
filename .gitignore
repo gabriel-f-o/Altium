@@ -1,0 +1,9 @@
+Logs/**
+Projects/**
+AD15/Examples/**
+AD15/Templates/**
+AD15/Library/*
+AD15/Library/Gabriel/PCB/History/*
+AD15/Library/Gabriel/SCH/History/*
+
+!AD15/Library/Gabriel
