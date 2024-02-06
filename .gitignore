@@ -7,3 +7,5 @@ AD15/Library/Gabriel/PCB/History/*
 AD15/Library/Gabriel/SCH/History/*
 
 !AD15/Library/Gabriel
+!AD15/Templates/Template.PcbDoc
+!AD15/Templates/A4_Template.SchDot
